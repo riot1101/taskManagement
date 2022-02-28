@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: taskManagement
+  profiles:
+    active: prod

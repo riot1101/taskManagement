@@ -1,0 +1,16 @@
+com/company/taskManagement/converters/TaskConverter.class
+com/company/taskManagement/config/SecurityConfig.class
+com/company/taskManagement/services/TaskService.class
+com/company/taskManagement/errors/BadRequestException.class
+com/company/taskManagement/entities/Employee.class
+com/company/taskManagement/converters/EmployeeConverter.class
+com/company/taskManagement/repositories/EmployeeRepository.class
+com/company/taskManagement/errors/NotFoundException.class
+com/company/taskManagement/entities/Task.class
+com/company/taskManagement/repositories/TaskRepository.class
+com/company/taskManagement/models/TaskModel.class
+com/company/taskManagement/models/EmployeeModel.class
+com/company/taskManagement/services/EmployeeService.class
+com/company/taskManagement/controllers/EmployeeController.class
+com/company/taskManagement/TaskManagementApplication.class
+com/company/taskManagement/controllers/TaskController.class
